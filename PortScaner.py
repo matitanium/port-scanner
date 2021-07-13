@@ -70,11 +70,7 @@ def tcp_scan(ip, startPort, endPort):
 if __name__ == '__main__':
     # Timeout in seconds
     socket.setdefaulttimeout(0.01)
-    
-    if sys == "Windows":
-        os.system("cls")
-    else:    
-        os.system("clear")
+   
 
     print(ColBanner)
 
