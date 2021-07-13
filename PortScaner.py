@@ -20,8 +20,6 @@ banner = ("""
          code by : matin nooriyan                                                                                     
 """)
 
-Sys = platform.system()
-
 
 ColBanner = (colorama.Fore.GREEN + banner)
 
