@@ -6,7 +6,6 @@ except:
     os.system("pip install colorama")   
 import socket
 import sys
-import platform
 
 banner = ("""  
                            █████    ███  █████                       ███                          
